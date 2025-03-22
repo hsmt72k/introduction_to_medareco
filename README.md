@@ -50,9 +50,7 @@ https://evans-one.vercel.app
 
 |オンボーディング画面 |ログイン画面 |アカウント登録画面 |
 |---|---|---|
-|<img src="./images/on_boarding.png" width="360px" /> 
-|<img src="./images/login.png" width="360px" /> 
-|<img src="./images/register_account.png" width="360px" /> |
+|<img src="./images/on_boarding.png" width="360px" /> |<img src="./images/login.png" width="360px" /> |<img src="./images/register_account.png" width="360px" /> |
 
 ### タブ画面
 
@@ -62,20 +60,26 @@ https://evans-one.vercel.app
 
 |ホーム画面 |履歴画面 |👉 プロフィール画面 |
 |---|---|---|
-|<img src="./images/home.png" width="360px" /> 
-|<img src="./images/history.png" width="360px" /> 
-|<img src="./images/profile.png" width="360px" /> |
+|<img src="./images/home.png" width="360px" /> |<img src="./images/history.png" width="360px" /> |<img src="./images/profile.png" width="360px" /> |
 
 ### 登録画面
 
 👉 新しい薬の登録画面 
 
-|新しい薬の登録画面 |
-|---|
-|<img src="./images/profile.png" width="360px" /> |
+|新しい薬の登録画面 |入力内容チェック |
+|---|---|
+|<img src="./images/register_medicine.png" width="360px" /> |<img src="./images/validation.png" width="360px" /> |
+
+|カレンダ入力 |年の選択 |通知時間の設定 |
+|---|---|---|
+|<img src="./images/calendar.png" width="360px" /> |<img src="./images/select_year.png" width="360px" /> |<img src="./images/time_picker.png" width="360px" /> |
 
 ## <a name="example">アプリの利用サンプル</a>
-
+ザイザル
 ### アカウントの作成 
 
 <img src="./images/movie_register_account.webp" width="360px" />
+
+### ログアウト・ログイン 
+
+<img src="./images/movie_login.webp" width="360px" />
