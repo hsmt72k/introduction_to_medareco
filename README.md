@@ -24,21 +24,13 @@
 ## 📋 <a name="table">もくじ</a>
 
 1. 🤖 [はじめに](#intro)
-2. 🔗 [URL](#url)
-3. 💻 [機能一覧](#features_list)
-4. 🚀 [アプリの利用サンプル](#example)
-5. 🤸 [終わりに](#outro)
+2. 💻 [画面一覧](#features_list)
+3. 🚀 [アプリの利用サンプル](#example)
+4. 🤸 [終わりに](#outro)
 
 ## <a name="intro">🤖 はじめに</a>
 
 薬の飲み忘れを防ぎ、薬の継続を習慣化するスマホアプリ、medareco を紹介します。
-
-EVANS は自由にチャンネルが作成でき、グループごとに会話ができるアプリです。
-
-## <a name="url">🔗 URL</a>
-
-EVANS  
-https://evans-one.vercel.app  
 
 ## <a name="screen_list">💻 画面一覧</a>
 
@@ -83,3 +75,11 @@ https://evans-one.vercel.app
 ### ログアウト・ログイン 
 
 <img src="./images/movie_login.webp" width="360px" />
+
+### 薬の登録 
+
+<img src="./images/movie_register_medicine.webp" width="360px" />
+
+### 薬を飲んだか忘れたかの記録 
+
+<img src="./images/movie_register_action_status.webp" width="360px" />
