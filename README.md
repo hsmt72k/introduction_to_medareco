@@ -1,5 +1,5 @@
 <img src="./images/medareco_cover.png" />
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Native" />
