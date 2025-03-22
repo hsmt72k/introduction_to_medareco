@@ -1,10 +1,9 @@
-<img src="./images/evans_cover.png" />
-
+<img src="./images/medareco_cover.png" />
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 <div align="center">
   <div>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=000&logo=react" alt="React" />
-    <img src="https://img.shields.io/badge/Vercel-000.svg?style=for-the-badge&logo=vercel&logoColor=fff" alt="Vercel" />
+    <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Native" />
+    <img src="https://img.shields.io/badge/Expo-1C2024?logo=expo&logoColor=fff&style=for-the-badge" alt="Expo" />
     <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff" alt="shadcn/ui" />
